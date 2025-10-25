@@ -1,4 +1,5 @@
 # backend/main.py
+print("Using updated main.py without dotenv")
 
 import os
 import google.generativeai as genai
