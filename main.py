@@ -11,7 +11,7 @@ import requests
 from bs4 import BeautifulSoup
 
 # --- 1. Load Environment Variables ---
-load_dotenv() # Load variables from .env file
+# load_dotenv() # Load variables from .env file
 
 # --- 2. Configure the Server ---
 app = Flask(__name__)
